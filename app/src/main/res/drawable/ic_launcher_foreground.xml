@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer subtle glow ring -->
+    <path
+        android:fillColor="#26FFFFFF"
+        android:pathData="M54,24A30,30 0 1,1 24,54A30,30 0 0,1 54,24Z" />
+    <!-- Stylized Cortex "C" & Neural Spark -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M62,36C51.5,36 43,44.06 43,54C43,63.94 51.5,72 62,72C66.5,72 70.6,70.5 73.8,68.0L69.2,62.4C67.2,64.0 64.7,65.0 62,65.0C55.4,65.0 50,60.1 50,54C50,47.9 55.4,43.0 62,43.0C64.7,43.0 67.2,44.0 69.2,45.6L73.8,40.0C70.6,37.5 66.5,36 62,36Z" />
+    <!-- AI Spark Star in center-right -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M67,46L69.2,51.8L75,54L69.2,56.2L67,62L64.8,56.2L59,54L64.8,51.8Z" />
+</vector>
