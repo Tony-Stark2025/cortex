@@ -2,6 +2,7 @@
 
 > **Submission URL**: [RevenueCat Shipaton 2026 on Devpost](https://revenuecat-shipaton-2026.devpost.com/)  
 > **App Title**: Cortex — AI Study Companion for Samsung Galaxy  
+> **GitHub Repository**: [https://github.com/Tony-Stark2025/cortex](https://github.com/Tony-Stark2025/cortex)  
 > **Tagline**: Foldable-native AI study workspace with citation-grounded RAG, 2-host audio briefings, S-Pen formula studio, and RevenueCat Galaxy Store subscriptions.  
 > **Target Store**: Samsung Galaxy Store (`https://galaxystore.samsung.com/detail/com.cortex.app`)  
 > **Judge / Reviewer Access Code**: `SHIPATON2026` (Redeemable right inside the Paywall screen to immediately unlock all Cortex Pro Scholar features)
