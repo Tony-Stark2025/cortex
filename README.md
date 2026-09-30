@@ -27,7 +27,7 @@ Rather than forcing desktop-style multi-pane document readers onto a phone, Cort
 
 * **UI & Presentation:** Kotlin 2.0 + Jetpack Compose with **Material 3** design tokens and `CortexViewModel` state retention.
 * **Foldable APIs:** `androidx.window` with `WindowInfoTracker` collected safely via `repeatOnLifecycle(Lifecycle.State.STARTED)`.
-* **AI Engine:** Google Gemini (`gemini-2.0-flash`) / custom Vertex AI endpoint with an automatic offline TF-IDF source-grounded RAG engine when running without an API key.
+* **AI Engine:** Google Gemini (`gemini-3.8-flash` with in-app Low Reasoning and Extended Reasoning modes) / custom Vertex AI endpoint with an automatic offline TF-IDF source-grounded RAG engine when running without an API key.
 * **Document Ingestion:** `DocumentTextExtractor` on `Dispatchers.IO` with native `PdfRenderer` page counting and `FlateDecode` / `BT..ET` PDF text stream extraction.
 * **Monetization:** RevenueCat Samsung Galaxy Store SDK (`com.revenuecat.purchases:purchases-store-galaxy:8.9.0`) powering Cortex Pro with persistent entitlement state.
 * **Retention:** OneSignal Android SDK (`com.onesignal:OneSignal:5.1.25`) scheduling contextual spaced-repetition study reminders.
